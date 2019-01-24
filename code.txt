@@ -2,4 +2,7 @@ hello  ,this  is my fist git...
 
 this  is  my  second line
 
-4344
+44
+哈哈哈哈对比文件
+
+创建code3.txt后的内容
